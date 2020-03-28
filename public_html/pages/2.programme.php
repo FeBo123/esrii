@@ -1,4 +1,4 @@
-<section class="jumbotron" style="background-image: url('/img/bgr/oeresund.jpg');">
+<section class="jumbotron" style="background-image: url('/img/bgr/ams-social-horv.jpg');">
   <p class="attribution">
     <a href="https://www.skyfish.com/p/copenhagenmediacenter/616120/19067768">
       Image: Wonderful Copenhagen, Copenhagen Media Center
