@@ -9,5 +9,6 @@
   <div>
     <h1>Official programme</h1>
     <p><b>Coming soon!</b></p>
-    <br/>  
+    <br/>
+    </div>
 </section>
