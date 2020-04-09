@@ -1,7 +1,7 @@
-<section class="jumbotron" style="background-image: url('/img/bgr/ams-social-horv.jpg');">
+<section class="jumbotron" style="background-image: url('/img/bgr/esriieye.jpg');">
   <p class="attribution">
-    <a href="https://www.skyfish.com/p/copenhagenmediacenter/616120/19067768">
-      Image: Wonderful Copenhagen, Copenhagen Media Center
+    <a href="https://www.unsplash.com">
+      Image: Anthony Da Cruz
     </a>
   </p>
 </section>
