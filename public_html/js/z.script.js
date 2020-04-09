@@ -26,7 +26,7 @@ $(function () {
 $(function () {
 
   // ESRII start date
-  var deadline = '2019-09-05T08:40+02:00';
+  var deadline = '2021-03-17T08:40+01:00';
 
   var clock = document.getElementById('clockdiv');
   var header = document.getElementById('countdown-header');
@@ -38,7 +38,7 @@ $(function () {
     console.log(t.diff);
     if (t.diff < 1) {
       clock.innerHTML = '';
-      header.innerHTML = 'Welcome to the 6th esrii Conference!';
+      header.innerHTML = 'Welcome to the 7th esrii Conference!';
       return;
     }
 
